@@ -3,7 +3,7 @@
     <string name="Text_titulo">Aplicativo Lista Vip Curso Android</string>
     <string name="text_hint_edit_primeiro_nome">primeiro nome</string>
     <string name="text_hint_edit_sobrenome">sobrenome</string>
-    <string name="text_hint_edit_nome_do_curso_desejado">Nome do curso desejado</string>
+    <string name="text_hint_edit_nome_do_curso_desejado">Nome do devandroid.luizeduardo.applistavip.model.curso desejado</string>
     <string name="text_hint_edit_telefone_de_contato">Telefone de contato</string>
     <string name="text_button_limpar">Limpar</string>
     <string name="text_button_salvar">Salvar</string>

@@ -1,8 +1,10 @@
-package devandroid.luizeduardo.applistavip;
+package devandroid.luizeduardo.applistavip.view;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import devandroid.luizeduardo.applistavip.R;
 
 public class MainActivity extends AppCompatActivity {
 
